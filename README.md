@@ -1,5 +1,6 @@
 # 💫 About Me:
-Evden calisiyorum.<br>Bana Java hakkinda soru sorabilirsiniz.<br>Isletme mezunuyum.
+Evden calisiyorum.<br>Bana Java hakkinda soru sorabilirsiniz.<br>Isletme mezunuyum.Javayi seviyorum.
+---
 
 
 ## 🌐 Socials:
