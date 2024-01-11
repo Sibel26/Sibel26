@@ -1,5 +1,5 @@
 # 💫 About Me:
-Evden calisiyorum.<br>Bana Java hakkinda soru sorabilirsiniz.<br>Isletme mezunuyum.Javayi seviyorum.
+Software Test Engineer | Java | Selenium | Appium | REST API | Postman | MySQL | Jenkins | AWS | Automation Testing, Manuel Testing, QA, Test Planning | ISTQB Certified | Agile Methodologies.<br>Ich kenne diese Programmiersprachen.<br>Ich arbeite von zu Hause.<br>Ich bin Bwl Studiert.
 ---
 
 
